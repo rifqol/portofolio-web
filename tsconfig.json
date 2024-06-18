@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/components/HeroSection.tsx", "app/components/NavLink.jsx", "app/components/NavBar.jsx", "app/components/MenuOverlay.jsx", "app/page.jsx", "app/layout.jsx"],
   "exclude": ["node_modules"]
 }
