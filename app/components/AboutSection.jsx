@@ -10,6 +10,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Laravel</li>
+        <li>Flutter</li>
         <li>Python</li>
         <li>MySQL</li>
         <li>Next.js</li>
@@ -55,7 +56,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          As a third-year Bachelor of Informatics student with a fervent interest in web development, 
+          As a fourth-year Bachelor of Informatics student with a fervent interest in web development, 
           I am enthusiastic about broadening my expertise and exploring the captivating realm of machine learning. 
           Dedicated to staying abreast of cutting-edge technologies and methodologies, I actively pursue new learning avenues. 
           Furthermore, drawing from several months of job training experience, I take satisfaction in collaborative efforts aimed at accomplishing project objectives.
